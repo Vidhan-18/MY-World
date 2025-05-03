@@ -1,0 +1,4 @@
+- Do not rely on client side, Checks at server side end are important.
+- Verifying at the client side only and taking decisions is dangerous.
+- Use Authentication based on strong Tokens ==JWT mechanism.==
+- Use authentication based on ==encrypted data== which can be AES for example.

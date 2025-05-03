@@ -1,0 +1,4 @@
+- Always limit the requests by any user.
+- Verifying at the clint side only and taking decisions is dangerous
+- Rate-limit users based on IP, **NAH!**
+- ==No. of Attempts for an account at server side.==

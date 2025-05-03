@@ -1,0 +1,2 @@
+# What is CSRF?
+- A CSRF vulnerability allows an attacker to unknowingly perform state changes on web application where the victim is authenticated. CSRF does not allow theft of any data, since the attacker has no way to see the response from the webpage.

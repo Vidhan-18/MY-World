@@ -1,0 +1,5 @@
+- [[Cross-Site Scripting(XSS)]]
+- [[CSRF - Cross-Site Request Forgery]]
+- [[HTTP Basic]]
+- [[Insecure Direct Object Reference]]
+- [[Open Redirect]]
